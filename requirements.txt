@@ -1,0 +1,11 @@
+python-dotenv 
+typing-extensions 
+langgraph 
+langchain-core 
+langchain-openai 
+langchain-anthropic 
+langchain-community 
+scikit-learn 
+openai 
+ipython
+openevals
